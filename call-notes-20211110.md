@@ -73,17 +73,22 @@ We'll start by establishing who has what level of experience, so we can taylor t
 
 | tool                    | bernd | cass | dejan | georgina | verena | yingshi |
 |-------------------------|-------|------|-------|----------|--------|---------|
-| command line            |       |      |       |          |        |         |
-| mark down               |       |      |       |          |        |         |
-| text editor (e.g. atom) |       |      |       |          |        |         |
-| github                  |       |      |       |          |        |         |
-| gitlab                  |       |      |       |          |        |         |
-| issues                  |       |      |       |          |        |         |
-| pull/merge request      |       |      |       |          |        |         |
-| branches                |       |      |       |          |        |         |
+| command line            |   3   |   3  |   3   |          |    2   |    2    |
+| mark down               |   4   |   4  |   3   |          |    2   |    0    |
+| text editor (e.g. atom) |   3   |   3  |   4   |          |    2   |    3    |
+| github                  |   3   |   3  |   3   |          |    3   |    1    |
+| gitlab                  |   2   |   3  |   2   |          |    1   |    1    |
+| issues                  |   3   |   3  |   2   |          |    0   |    0    |
+| pull/merge request      |   2   |   2  |   2   |          |    2   |    0    |
+| branches                |   3   |   2  |   2   |          |    2   |    0    |
 
 Text editors we use:
-- Atom
+- Atom +2
+- Emacs
+- Pycharm
+- Qt Creator
+- RStudio +2
+- Jupyter Notebook
 
 Other comments/notes:
 
@@ -95,6 +100,11 @@ We can go through a few different exercises based on our current skill sets.
 - Mostly 0-1s => Cass will give a full "OMG what is all this" tutorial
 - Mostly 3-4s => Jump into the [issues on Open WIN Community pages](https://git.fmrib.ox.ac.uk/open-science/community/Open-WIN-Community/-/issues) and have a go at those tagged "Ambassadors". 
 - Mostly 2s => Chose which of the above groups to join.
+
+What happened: Everyone wants to do the training!
+- No-one had all 4
+- Insecurity of not knowing what is ahead of us (as amabassadors), so trying to avoid missing smth important
+- Wanting to see how other people teach
 
 ### Full tutorial
 Learning outcomes:
@@ -117,16 +127,30 @@ For this session we have worked with gitlab in the online editor. You will later
 5. Pull a local version of your repo
 6. [Edit your repo and push changes](https://open.win.ox.ac.uk/pages/open-science/community/Open-WIN-Community/docs/gitlab/2-4-starting-git-basics/)
 
+<mark>We need to think of some homework for mostly3/4 folk! Maybe supporting the others?</mark>
 
 
-## 5. Feedback on this session
-<mark>Please add a few words to each of the sections below so we can improve the expereince of others.</mark>
+## 4. Feedback on this session
+
+#### A few git/github/gitlab resources
+- very nice interactive tutorial using a command line interface and visual representation of changes (basic and advanced topics): https://learngitbranching.js.org/ 
+- short overview of main git commands: http://rogerdudler.github.io/git-guide/
+- gitlab cheatsheet: https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+- extensive documentation of gitlab: https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
+- extensive tutorial and documentation of how to integrate git and R: https://happygitwithr.com/ 
+
+<br>
+
+<mark>Please add a few words to each of the sections below so we can improve the experience of others.</mark>
 ### What worked well?
-- 
+- Going through the terminology of GitLab.
+- getting everyone on the same page (I think that's especially useful for collaborative software tools)
+- Wonder is fun
 ### What surprised you?
-- 
+- I could publish my own page under open.win.ox.ac.uk domain.
 ### What would you change?
 - 
 ### What would you like to know more about?
-- 
+- Page building; build my own site as pretty as the open win community site.
+- best way of solving merge conflicts
 
