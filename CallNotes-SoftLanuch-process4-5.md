@@ -98,13 +98,13 @@ Add below any comments about each of the steps in this process.
 
 
 ##### Time and date
-- acquistion time can be used to control for arousal. I wou;dnt put this in a normal database of metadata, but it is something we might come back to with a secondary hypothesis. 
+- acquistion time can be used to control for arousal. I would not put this in a normal database of metadata, but it is something we might come back to with a secondary hypothesis. 
 
 ##### Which scanner
 - Device serial number and insitutional address. Multi centre covid study use this information...! Biobank pipeline contrains a call to the pipeline to find out the address...! 
 
 ##### Study description
-- One instance with a particiupant which was scanned over different projects and combineed to make a new one. 
+- One instance with a participant which was scanned over different projects and combineed to make a new one. 
 
 #### Defacing and skull stripping
 - The face is usually critical for coregistration. What would be the advice; sharing the defaced structural + the coregistration info (that was derived from the complete structural)? +100. Note this is a unique 
@@ -173,7 +173,7 @@ Add below any comments about each of the steps in this process.
 
 #### Data freeze
 - some people might release in stages to give themselves a "headstart", for example some minimally preprocessed data.
-- P1vital want data on a rolling basis (every 3 days), potentially oer participant. 
+- P1vital want data on a rolling basis (within 3 days of scanning)
 - Maybe different versions of templates. New releases.
 
 
@@ -213,16 +213,21 @@ Mats: People that are accessing the data have to agree they won't try to de-anon
 
 
 #### What worked?
-- comment here
+- Having an open conversation
+- Good sized group for open discussion
+- Having different perspectives from different kind of researchers was very useful 
+- Quick way of gathering information we all have in our head but which is not directly out there to find online for example 
 
 #### What didn't work?
 - comment here
 
 #### What would you change?
-- comment here
+- Some info on what we were going to talk about in the meeting would have been helpful to know beforehand. 
 
 #### What surprised you?
 - comment here
+
+thank you for organising again Cass! :)
 
 -------
 
