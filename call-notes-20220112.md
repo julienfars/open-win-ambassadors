@@ -39,12 +39,39 @@
 -----
 
 ## 1. Review of [call notes from last week](https://git.fmrib.ox.ac.uk/open-science/community/open-win-ambassadors/-/blob/master/call-notes/wk7-call-notes-protocols-dochack-plan.md)
-
+- a few more protocols should become public soon (currently only UKB)
+- discussion (for later) about DOI's: zenodo, one of the arxivs, ORA, etc.
+    - see [github issue](https://github.com/openjournals/brief-ideas/issues/132)
+- what to call it? database vs repository
+    - use "database" for the actual MR protocols website
+        - [ ] Update this in existing documentation and community website, ensuring "mr protocols". 
+    - use "repository" for github/gitlab repos
 
 ## 2. Co-working plan
 - Review existing materials and provide feeback.
+    - IT feedback issues: [gitlab issue](https://git.fmrib.ox.ac.uk/acquisition/win-protocols-db/-/issues/43)
+    - Use cases feedback
+        - Add protocols db to MRI grad program
+        - Speak to Nancy about adding to dform SOP type docs (e.g. project request form)
+        - Internal guide: add short bullet list for change log
+        - Internal sharing - maybe flesh out some more once people are using it
+        - Think about awareness raising, personal contacts. Include in laucnh comms - "are you writing a paper now...?"
+        - Include in WIN Monday message (maybe several times / periodically?)
+        - Add to official open access guidelines . Maybe add to [FAQ](https://sharepoint.nexus.ox.ac.uk/sites/NDCN/FMRIB/SitePages/WIN%20Open%20Access%20Publishing.aspx). 
+        - Radiographer training session to get them to talk about it. 
+        - Recording some short videos of how to use. 
 - Agree responsibilities for outstanding documentation.
-- Agree timeline for reivew.
+    - Bernd on external
+    - Verena, Yingshi and Cass on internal
+    - All aim to have complete draft by end of next week. 
+- Agree timeline for review.
+    - 3 weeks to deadline
+        - 1 week to finish complete draft
+        - 1 week for Dejan to review
+        - 1 week to action feedback
+    - Work async and I'll put a place holder for same time next week. No obligation to join!
+
+- Make videos? Maybe wait for vidyard account?
 - Co-work :)! 
 
 
