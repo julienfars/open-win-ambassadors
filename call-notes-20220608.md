@@ -43,5 +43,9 @@
 - Add a bit to the guidance on "limitations of this sequence"
 
 ## 2. Responding to feedback (Mountain of Engagement!)
+- Discussed how to capitalise on the engagement of folks in Verena's lab.
+- Following the strategy of the "[Mountain of Engagement](https://open.win.ox.ac.uk/pages/open-science/community/Open-WIN-Community/docs/community/mountain-of-engagement/)", we should look to provide opportunities to nudge folks towards participation in our framework, i.e. adding to this reposotory. 
+- Also look to demonstrate our values of being responsive to feedback!
+- Created issue [#46](https://git.fmrib.ox.ac.uk/open-science/community/Open-WIN-Community/-/issues/46) to log the feedback. Verena to invite Margot to create a gitlab account and comment on this issue. 
 
 
