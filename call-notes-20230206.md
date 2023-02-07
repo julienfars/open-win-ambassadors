@@ -1,4 +1,5 @@
 # Open WIN Ambassadors - 6th February 2023
+
 ## Agenda and collaborative notes
 
 -----
@@ -43,21 +44,44 @@
 
 ## 1. Your project ideas
 
+### WIN to the world
+- Peter has written a draft of a tweet describing a recent published paper
+- Communication priority: 1) Must know; 2) Should know; 3) Could know. Can also use TL/DR.
+- Talk to Public engagement ambassadors to see if they'd like to collaborate on "WIN to the world"
+    - Public engagement 101 for us? <mark>email Hannah: wanna work with us?</mark>
+- Twitter + Monday message: internal/external - different versions?
+
+### Monday Message
+- Slack channel: #monday-message
+    - joined (Peter)
+- How long should it be? - Keep it short.
+- Section title "Open Science" might not be attractive to some people
+- We don't like "Intranet Highlight"
+- Too many words...
+- discussion continued on: https://padlet.com/WINPublicEngagement/open-win-ambassadors-2023-projects-monday-message-c83nu0jzncbmvhyv
+
+
+<mark>Homework: Please review the issues on community pages</mark>
+
+**WE'LL RETURN TO THE BELOW NEXT WEEK**
+
 ### Git
 
 ### Success stories seminar
-
-### Monday Message
 
 ### Mouse data? + Digital Brain Bank
 
 ### Analysis tools
 
+## 2. Gitlab Issues
+
+
+
 
 ## 3. Feedback on this session
 <mark>Please add a few words to each of the sections below so we can improve the expereince of others.</mark>
 ### What worked well?
-- 
+- padlet was great!! +1
 ### What surprised you?
 - 
 ### What would you change?
